@@ -1,4 +1,3 @@
-/* RESET */
 *{
     margin:0;
     padding:0;
@@ -12,7 +11,8 @@ body{
     color:#000;
 }
 
-/* HEADER */
+
+
 header{
     width:100%;
     background:#EAD4D4;
@@ -39,7 +39,8 @@ nav a:hover{
     color:#9CA99E;
 }
 
-/* HERO */
+
+
 .hero{
     padding:40px 8% 20px;
 }
@@ -59,7 +60,7 @@ nav a:hover{
     font-size:18px;
 }
 
-/* INTRO */
+
 .intro{
     padding:20px 8%;
 }
@@ -80,7 +81,7 @@ nav a:hover{
     margin-bottom:25px;
 }
 
-/* BUTTON */
+
 .btn{
     display:inline-block;
     background:#9CA99E;
@@ -97,7 +98,7 @@ nav a:hover{
     color:white;
 }
 
-/* SECTION TITLE */
+
 .section-title{
     display:inline-block;
     background:#9CA99E;
@@ -108,7 +109,7 @@ nav a:hover{
     font-weight:500;
 }
 
-/* PROJECTS */
+
 .projects{
     padding:20px 8% 60px;
 }
@@ -139,7 +140,7 @@ nav a:hover{
     line-height:1.7;
 }
 
-/* ABOUT */
+
 .about{
     padding:60px 8%;
 }
@@ -172,7 +173,7 @@ nav a:hover{
     line-height:1.8;
 }
 
-/* SKILLS */
+
 .skills{
     padding:20px 8% 60px;
 }
@@ -192,7 +193,7 @@ nav a:hover{
     font-size:20px;
 }
 
-/* CONTACT */
+
 .contact{
     padding:60px 8%;
 }
@@ -235,7 +236,7 @@ nav a:hover{
     color:white;
 }
 
-/* CONTACT INFO */
+
 .contact-info{
     margin-top:30px;
 }
@@ -248,7 +249,7 @@ nav a:hover{
     width:fit-content;
 }
 
-/* SOCIAL */
+
 .social-box{
     background:#EAD4D4;
     margin-top:40px;
@@ -267,7 +268,7 @@ nav a:hover{
     margin-bottom:10px;
 }
 
-/* RESPONSIVE */
+
 @media(max-width:900px){
 
     header{
